@@ -37,3 +37,6 @@ JavaScript | TypeScript  | React | Next.js
 📫 How to reach me:  
 
 [LinkedIn](https://www.linkedin.com/in/valeriia-mazhytova/) | [Email](mazhytova1996@gmail.com)
+
+
+[![ValeryMaz profile views](https://u8views.com/api/v1/github/profiles/136290708/views/day-week-month-total-count.svg)](https://u8views.com/github/ValeryMaz)
